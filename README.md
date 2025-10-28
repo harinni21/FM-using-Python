@@ -32,21 +32,22 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-Am = 6.5
-fm = 511
+Am = 6.8
+fm = 532
+fs = 53200
 t = np.arange(0, 2/fm, 1/fs)
 
 m = Am * np.cos(2 * np.pi * fm * t)
 plt.subplot(3, 1, 1)
 plt.plot(t, m)
 
-Ac = 13.0
-fc = 5110
+Ac = 13.6
+fc = 5320
 c = Ac * np.cos(2 * np.pi * fc * t)
 plt.subplot(3, 1, 2)
 plt.plot(t, c)
 
-B = 6.6
+B = 6.9
 s = Ac * np.cos(2 * np.pi * fc * t + B * np.sin(2 * np.pi * fm * t))
 plt.subplot(3, 1, 3)
 plt.plot(t, s)
@@ -55,18 +56,18 @@ plt.tight_layout()
 ```
 Output Waveform
 
-<img width="1170" height="903" alt="Fm out" src="https://github.com/user-attachments/assets/415bd3ab-21cc-436f-9bfe-d58b67a3f03b" />
+<img width="712" height="545" alt="image" src="https://github.com/user-attachments/assets/c37a602f-1952-4c43-8ba2-559370717f57" />
 
 
 Tabular Column
 
-![Fm modulation using python](https://github.com/user-attachments/assets/6a61bb88-154b-45ec-902a-2588b438049f)
+![WhatsApp Image 2025-10-28 at 10 36 44_97d8ca82](https://github.com/user-attachments/assets/8b19cd38-4229-443b-9ccc-25b60e09be1f)
 
 
 
 Calculation
 
-![Fm using python page 2](https://github.com/user-attachments/assets/5495b29f-e388-43cd-b643-7f4c17add4c4)
+![WhatsApp Image 2025-10-28 at 10 36 49_4cc62f3a](https://github.com/user-attachments/assets/1183c324-ce73-4a06-b088-a552890c1159)
 
 
 
