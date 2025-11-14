@@ -61,13 +61,13 @@ Output Waveform
 
 Tabular Column
 
-![WhatsApp Image 2025-10-28 at 10 36 44_97d8ca82](https://github.com/user-attachments/assets/8b19cd38-4229-443b-9ccc-25b60e09be1f)
+![WhatsApp Image 2025-11-13 at 12 52 30_66d7b83c](https://github.com/user-attachments/assets/855148e2-6278-4a57-a0d2-375626b23ad6)
 
 
 
 Calculation
 
-![WhatsApp Image 2025-10-28 at 10 36 49_4cc62f3a](https://github.com/user-attachments/assets/1183c324-ce73-4a06-b088-a552890c1159)
+![WhatsApp Image 2025-11-13 at 12 52 31_8be91433](https://github.com/user-attachments/assets/e31ebf24-a66d-4de1-90be-fdec1535c5a8)
 
 
 
